@@ -22,3 +22,4 @@ https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
 https://iplists.firehol.org/files/urlvir.ipset
 https://www.spamhaus.org/drop/edrop.txt
+https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestips.txt
